@@ -8,4 +8,4 @@
 - 학습률 최적화, 군집 분석 구현, Cost Function 구현 (https://github.com/ymemily515/test/blob/master/3주차_과제의_사본.ipynb)
 - 위의 파일이 열리지 않는 다면 이 방식으로 업로드 해 주세요. ->3주차 과제 nbviewer
 ## 4주차 과제 (2020.06.17)
-- 딥러닝 용어 정리, 콜론 코딩, 딥러닝 순전파 & 역전파 계산 (https://colab.research.google.com/github/ymemily515/test/blob/master/4주차_과제_ipynb의_사본.ipynb)
+- 딥러닝 용어 정리, 콜론 코딩, 딥러닝 순전파 & 역전파 계산 (https://github.com/ymemily515/test/blob/master/4주차_과제_ipynb의_사본.ipynb)
